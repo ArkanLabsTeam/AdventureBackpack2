@@ -10,5 +10,5 @@ This mod is under the GNU LESSER GENERAL PUBLIC LICENSE Version 3.
 
 Compared to its predecessor the Adventure Backpack 2 mod has the following:
 * more backpacks for you to enjoy
-* fixed many bugs
+* fixed many bugs (alot more)
 * better performance
